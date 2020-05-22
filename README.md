@@ -1,8 +1,9 @@
 # exPokemon
 
-##Task
+Task
 
 Create a Pokemon table with the following information.
+______________________________________________________________________________________________________________________________
 
 Name
 Bulbasaur
