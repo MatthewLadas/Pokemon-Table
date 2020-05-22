@@ -2,7 +2,7 @@
 
 Task
 
-Create a Pokemon table with the following information.
+* Create a Pokemon table with the following information.
 ______________________________________________________________________________________________________________________________
 
 Name
